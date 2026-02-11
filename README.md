@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandhakishore P s</h1>
+<h1 align="center">Hi 👋, I'm Nandhakishore P S</h1>
 <h3 align="center">An aspiring data scientist from India</h3>
 
 <h3 align="left">Connect with me:</h3>
